@@ -1,0 +1,52 @@
+body{
+  background-image: url("hhome4.jpg");
+  width:100%;
+  height:100vh;
+}
+
+.section {
+  position: relative;
+  top:30%;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  justify-content: center;
+
+}
+
+.section h1 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Cookie";
+  font-size: 500%;
+  padding: 5px;
+  margin: 5px;
+  opacity: 1;
+}
+
+p{
+  text-align: center;
+  color: #ffffff;
+  font-size: 180%;
+}
+
+a{
+  position: relative;;
+  top:30%;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  background-color:#131654;
+  display: inline-block;
+  width:10%;
+  line-height: 250%;
+  border-radius: 20px;
+  font-size: 120%;
+  margin:90px;
+}
+
+a:hover{
+  background-color: grey;
+  font-size: 150%;
+  width: 15%;
+}
